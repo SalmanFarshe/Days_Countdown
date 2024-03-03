@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 var targetDate = new Date("jan 01, 2025");
+=======
+var targetDate = new Date("jan 01, 2024");
+>>>>>>> 7e20c1a9b6627306ca5a4f27cf6660adecb27365
 var month = document.querySelector(".month");
 var the_time = document.querySelector(".the-time")
 // var year = document.querySelector(".year");
